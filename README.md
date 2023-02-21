@@ -1,1 +1,1 @@
-# java-huffman-coding
+# Codificación del algoritmo de Huffman en Java
